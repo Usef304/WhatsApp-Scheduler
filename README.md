@@ -17,5 +17,5 @@ It detects if you're already logged into WhatsApp Web and sends messages at the 
 ## ⚙️ Installation
 1. Clone this repository:
    ```bash
-   git clone https://github.com/your-username/whatsapp-scheduler.git
+   git clone https://github.com/Usef304/whatsapp-scheduler.git
    cd whatsapp-scheduler
