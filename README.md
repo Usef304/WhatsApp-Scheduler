@@ -26,7 +26,7 @@ This Python script allows you to schedule WhatsApp messages using Selenium and C
 ## Setup
 
 ### 📋 Prerequisites
-- Python 3.x
+- Python 3.13.1
 - Google Chrome
 - ChromeDriver (compatible with your Chrome version)
 - Selenium
